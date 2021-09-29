@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
+// 주석 추가 이부분이 연동 되나?
+// 인식 안되는것 같은데?ㅠ
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
